@@ -479,5 +479,3 @@
 </div>
 
 
-<?php include './partials/layouts/layoutBottom.php' ?>
-<?php include './partials/finalize-popup.php' ?>
